@@ -3,10 +3,6 @@
 <p align="center">
   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/7da25d1a-ff55-468d-bf16-9a56e42ee9d7" />
 
-" alt="FECAP Logo" width="200"/>
-</p>
-
-<h1 align="center">FECAP - Fundação de Comércio Álvares Penteado</h1>
 
 
 Aplicação gamificada que auxilia usuários a encontrar cupons de desconto em estabelecimentos parceiros, usando lógica de jogo e banco de dados.
