@@ -30,10 +30,12 @@ Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executá
 Utilize o link https://chooser-beta.creativecommons.org/ para fazer uma licença CC BY 4.0.
 
 ## 🎓 Referências
-1) Duolingo – exemplo de plataforma gamificada com sistema de pontos e progressão por níveis;
-2) Show do Milhão – referência para o formato de rodadas e pontuação;
-3) Artigo: Marketing e Gamificação: estratégias para engajamento, cocriação e personalização;
-4) PicMoney – Projeto Interdisciplinar FECAP – documento oficial do desafio acadêmico.
+1. [Duolingo](https://www.duolingo.com/) – exemplo de plataforma gamificada com sistema de pontos e progressão por níveis.  
+2. [Show do Milhão – SBT Games](https://www.youtube.com/watch?v=HDyfJF9DNLQ) – referência para o formato de rodadas e pontuação.  
+3. [Artigo: *Marketing e Gamificação – estratégias para engajamento, cocriação e personalização*](https://revistas.fibbauru.br/multiplicidadefib/article/view/671) – estudo sobre o uso da gamificação em estratégias empresariais e de marketing.  
+4. [PicMoney – Projeto Interdisciplinar FECAP](https://www.fecap.br) – documento oficial do desafio acadêmico da instituição.  
+
+---
 
 
 - [Banco de Dados - Modelagem Conceitual (DER)](./BD/README.md)
