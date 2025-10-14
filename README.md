@@ -1,5 +1,6 @@
+# FECAP - Fundação de Comércio Álvares Penteado
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/524c6a4f-dfb5-47cb-a3e5-f85c830fad21" />
-FECAP - Fundação de Comércio Álvares Penteado
+
 
 Aplicação gamificada que auxilia usuários a encontrar cupons de desconto em estabelecimentos parceiros, usando lógica de jogo e banco de dados.
 
