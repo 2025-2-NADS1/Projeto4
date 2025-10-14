@@ -1,7 +1,8 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-  <img src="https://www.fecap.br/wp-content/uploads/2022/10/fecap-logo-vertical-verde.png" alt="FECAP Logo" width="200"/>
+  <img src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bf5a55ad-e35d-4020-8192-91de31763e62" />
+" alt="FECAP Logo" width="200"/>
 </p>
 
 <h1 align="center">FECAP - Fundação de Comércio Álvares Penteado</h1>
