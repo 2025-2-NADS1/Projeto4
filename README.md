@@ -24,7 +24,7 @@ Que tal testar seus conhecimentos e ver quantos mistérios você consegue desven
 
 ## 🛠 Instalação
 Windows:
-    - Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
 
 - [Banco de Dados - Modelagem Conceitual (DER)](./BD/README.md)
