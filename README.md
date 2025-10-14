@@ -26,6 +26,9 @@ Que tal testar seus conhecimentos e ver quantos mistérios você consegue desven
 Windows:
 Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
+## 📋 Licença/License
+Utilize o link https://chooser-beta.creativecommons.org/ para fazer uma licença CC BY 4.0.
+
 
 - [Banco de Dados - Modelagem Conceitual (DER)](./BD/README.md)
 - [Redes de Computadores - Testes de Comunicação](./Redes/README.md)
