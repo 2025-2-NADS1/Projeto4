@@ -39,11 +39,5 @@ Utilize o link https://chooser-beta.creativecommons.org/ para fazer uma licença
 ---
 
 
-- [Banco de Dados - Modelagem Conceitual (DER)](./BD/README.md)
-- [Redes de Computadores - Testes de Comunicação](./Redes/README.md)
-- [Métodos Quantitativos - Tabela da Verdade](./Metodos_Quantitativos/Tabela_Verdade.pdf)
-- [Algoritmos e Lógica de Programação - Aplicação dos Algoritmos](./Algoritmos/Algoritmos_PicMoney.pdf)
-- [Modelagem de Software - Documento de Abertura e Casos de Uso](./Modelagem_Software/Documento_Modelagem.pdf)
-
 
 
