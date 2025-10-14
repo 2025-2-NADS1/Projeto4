@@ -1,6 +1,10 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
-![FECAP Logo](https://www.fecap.br/wp-content/uploads/2022/10/fecap-logo-vertical-verde.png)
+<p align="center">
+  <img src="https://www.fecap.br/wp-content/uploads/2022/10/fecap-logo-vertical-verde.png" alt="FECAP Logo" width="200"/>
+</p>
+
+<h1 align="center">FECAP - Fundação de Comércio Álvares Penteado</h1>
 
 
 Aplicação gamificada que auxilia usuários a encontrar cupons de desconto em estabelecimentos parceiros, usando lógica de jogo e banco de dados.
