@@ -6,9 +6,8 @@
 ## Integrantes: [Luis Felipe Trindade](#), [Cauã Aono Laredondo](#), [Marcus Vinicius](#), [Douglas Vieira](#), 
 ## [Guilherme Harada](#).
 
-**Professores Orientadores:**  
-[Victor Rossetti](#), [Eduardo Savino](#), [Lucy Tabuti](#),  
-[Aimar Martins](#), [Renata Muniz](#), [Ronaldo Araujo](#)
+## Professores Orientadores:[Victor Rossetti](#), [Eduardo Savino](#), [Lucy Tabuti](#),  [Aimar Martins](#), 
+## [Renata Muniz](#), [Ronaldo Araujo](#)
 
 ### 👨‍🏫 Professores Orientadores
 Victor Rossetti, Ronaldo Savino, Lucy Tabuti, Aimar Martins, Renata Muniz, Ronaldo Araújo
