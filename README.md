@@ -10,7 +10,8 @@
 ## Professores Orientadores:[Victor Rossetti](#), [Eduardo Savino](#), [Lucy Tabuti](#),  [Aimar Martins](#), [Renata Muniz](#), [Ronaldo Araujo](#)
 
 ## Descrição
-![Uploading image.png…]()
+![Logo PICMYSTERY](https://github.com/user-attachments/assets/8ef3ee2f-064d-4353-b324-da5be77aa7c9)
+
 
 ---
 
