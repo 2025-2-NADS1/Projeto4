@@ -22,25 +22,16 @@ Cada rodada representa um novo desafio — quanto mais o jogador acerta, mais pr
 
 Que tal testar seus conhecimentos e ver quantos mistérios você consegue desvendar?
 
----
+## 🛠 Instalação
+Windows:
+    - Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-## 📚 Entregas
 
-### 📅 Entrega 1 – 22/SET
 - [Banco de Dados - Modelagem Conceitual (DER)](./BD/README.md)
 - [Redes de Computadores - Testes de Comunicação](./Redes/README.md)
 - [Métodos Quantitativos - Tabela da Verdade](./Metodos_Quantitativos/Tabela_Verdade.pdf)
 - [Algoritmos e Lógica de Programação - Aplicação dos Algoritmos](./Algoritmos/Algoritmos_PicMoney.pdf)
 - [Modelagem de Software - Documento de Abertura e Casos de Uso](./Modelagem_Software/Documento_Modelagem.pdf)
 
----
-
-## ⚙️ Tecnologias Sugeridas
-- C#, SQLite, Draw.io, GitHub, Figma
-
----
-
-## 📜 Licença
-Este projeto está licenciado sob a [Creative Commons CC BY 4.0](https://chooser-beta.creativecommons.org/)
 
 
