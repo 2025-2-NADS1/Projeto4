@@ -3,11 +3,9 @@
 <p align="center">
   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/7da25d1a-ff55-468d-bf16-9a56e42ee9d7" />
 
-## Integrantes: [Luis Felipe Trindade](#), [Cauã Aono Laredondo](#), [Marcus Vinicius](#), [Douglas Vieira](#), 
-## [Guilherme Harada](#).
+## Integrantes: [Luis Felipe Trindade](#), [Cauã Aono Laredondo](#), [Marcus Vinicius](#), [Douglas Vieira](#), [Guilherme Harada](#).
 
-## Professores Orientadores:[Victor Rossetti](#), [Eduardo Savino](#), [Lucy Tabuti](#),  [Aimar Martins](#), 
-## [Renata Muniz](#), [Ronaldo Araujo](#)
+## Professores Orientadores:[Victor Rossetti](#), [Eduardo Savino](#), [Lucy Tabuti](#),  [Aimar Martins](#), [Renata Muniz](#), [Ronaldo Araujo](#)
 
 ### 👨‍🏫 Professores Orientadores
 Victor Rossetti, Ronaldo Savino, Lucy Tabuti, Aimar Martins, Renata Muniz, Ronaldo Araújo
