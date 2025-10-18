@@ -1,1 +1,1 @@
-certutil -encode "C:\Users\25028224\Downloads\códigoPI.png" "C:\Users\25028224\Downloads\codigoPI_base64.txt"
+![Descrição da imagem](./images/codigoPI.png)
