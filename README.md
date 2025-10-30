@@ -3,7 +3,7 @@
 <p align="center">
   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/7da25d1a-ff55-468d-bf16-9a56e42ee9d7" />
 
-##PICMYSTERY
+## PICMYSTERY
 
 ## Integrantes: [Luis Felipe Trindade](#), [Cauã Aono Laredondo](#), [Marcus Vinicius](#), [Douglas Vieira](#), [Guilherme Harada](#).
 
