@@ -5,7 +5,7 @@
 
 ## PICMYSTERY
 
-## Integrantes: [Luis Felipe Trindade](#), [Cauã Aono Laredondo](#), [Marcus Vinicius](#), [Douglas Vieira](#), [Guilherme Harada](#).
+## Integrantes: [Luis Felipe Trindade](#), [Cauã Aono Laredondo](#), [Marcus Vinicius](#).
 
 ## Professores Orientadores:[Victor Rossetti](#), [Eduardo Savino](#), [Lucy Tabuti](#),  [Aimar Martins](#), [Renata Muniz](#), [Ronaldo Araujo](#)
 
