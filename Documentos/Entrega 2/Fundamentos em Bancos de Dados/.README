@@ -1,0 +1,10 @@
+## Estrutura
+Foram criadas as seguintes tabelas principais:
+- **Usuario**: Armazena os dados dos jogadores.
+- **Perfil**: Define os tipos de perfil e permissões.
+- **Perguntas**: Questões do jogo.
+- **Partida**: Registro das partidas jogadas.
+- **Ranking**: Classificação geral dos usuários.
+- **Estabelecimento** e **Cupom**: Sistema de recompensas.
+- **Resgate**: Controle de cupons resgatados.
+- **Partida_Pergunta**: Relação entre perguntas e partidas.
