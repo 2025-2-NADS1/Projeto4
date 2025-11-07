@@ -1,4 +1,5 @@
-## Estrutura
+## ESTRUTURA
+
 Foram criadas as seguintes tabelas principais:
 - **Usuario**: Armazena os dados dos jogadores.
 - **Perfil**: Define os tipos de perfil e permissões.
