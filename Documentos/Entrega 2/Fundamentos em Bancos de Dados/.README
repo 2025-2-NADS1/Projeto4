@@ -1,7 +1,7 @@
-## ESTRUTURA
+ESTRUTURA
 
 Foram criadas as seguintes tabelas principais:
-- **Usuario**: Armazena os dados dos jogadores.
+- [Usuario:] Armazena os dados dos jogadores.
 - **Perfil**: Define os tipos de perfil e permissões.
 - **Perguntas**: Questões do jogo.
 - **Partida**: Registro das partidas jogadas.
