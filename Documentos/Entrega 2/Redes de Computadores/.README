@@ -1,5 +1,5 @@
  ----- PicMystery - Projeto de Quiz em C# com TCP ---------
-## Descrição do Projeto
+* Descrição do Projeto
   O PicMystery é um projeto de quiz simples onde o cliente interage com o servidor para responder perguntas. 
   O servidor envia perguntas do banco de dados SQLite, e o cliente responde digitando uma alternativa. O servidor verifica se a resposta está correta e envia o feedback de volta.
 
