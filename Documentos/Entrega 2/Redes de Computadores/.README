@@ -1,1 +1,28 @@
+ ----- PicMystery - Projeto de Quiz em C# com TCP ---------
+## Descrição do Projeto
+  O PicMystery é um projeto de quiz simples onde o cliente interage com o servidor para responder perguntas. 
+  O servidor envia perguntas do banco de dados SQLite, e o cliente responde digitando uma alternativa. O servidor verifica se a resposta está correta e envia o feedback de volta.
 
+* Funcionalidade:
+  Cliente: Permite ao usuário enviar comandos como "ME PERGUNTE" para o servidor e responder perguntas com alternativas. O cliente utiliza uma interface de linha de comando.
+  Servidor: Envia uma pergunta aleatória ao cliente e verifica se a resposta enviada pelo cliente está correta. Utiliza um banco de dados SQLite para armazenar as perguntas e respostas.
+
+* Passo a Passo para Executar o Projeto
+  1. Configuração do Servidor:
+	I) Abra o Visual Studio.
+	II) Abra o arquivo EXEMPLO_02_SERVER (dentro da pasta PicMystery).
+	III) Verifique se o caminho para o banco de dados está correto no código do servidor:
+		static string caminhoBanco = @"C:\Users\user\Desktop\AULALA4 - DESKTOP\BANCO DE DADOS\picmystery.db"; // Caminho do banco de dados
+		ATENÇÃO AQUI PROFESSOR: Aqui o senhor deve alterar para o caminho da sua máquina.
+	IV) Clique com o botão direito no arquivo Program.cs (do servidor) e selecione Definir como Projeto de Início.
+	V) Clique em Iniciar ou pressione F5 para rodar o servidor.
+
+* Como Funciona
+	NO PROMPT CLIENT X SERVER:
+		I) Inicie o cliente. Ele pode enviar comandos como:
+		II) Comando para começar o jogo: "ME PERGUNTE" - O servidor envia uma pergunta aleatória.
+		III) A Resposta de ser configurada da seguinte forma: "RESPOSTA - id_pergunta - A/B/C/D" - O cliente envia sua resposta. O servidor verifica se a resposta está correta e retorna o feedback.
+	
+	NO WINDOWS FORMS
+		I) Aperte o botão "Me Pergunte!" para o jogo rodar as perguntas contidos no banco de dados externo
+		II) Coloque a letra (A, B, C ou D) no espaço designado para a resposta e aperte o botão "Verificar".
