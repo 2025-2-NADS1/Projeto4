@@ -12,10 +12,14 @@
 * Passo a Passo para Executar o Projeto
   1. Configuração do Servidor:
 	I) Abra o Visual Studio.
-	II) Abra o arquivo EXEMPLO_02_SERVER (dentro da pasta PicMystery).
-	III) Verifique se o caminho para o banco de dados está correto no código do servidor:
+	II) Abra o arquivo PicMystery.sln.
+	III) Abra dois projetos dentro do Visual Studio:
+	IV) EXEMPLO_02_SERVER: Este é o projeto que representa o servidor.
+	V) PicMystery (WinForms): Este é o projeto que representa o cliente com interface gráfica.
+	VI) Abra o arquivo Program.cs dentro do projeto EXEMPLO_02_SERVER.
+	VII) Verifique se o caminho para o banco de dados está correto no código do servidor:
 		static string caminhoBanco = @"C:\Users\user\Desktop\AULALA4 - DESKTOP\BANCO DE DADOS\picmystery.db"; // Caminho do banco de dados
-		ATENÇÃO AQUI PROFESSOR: Aqui o senhor deve alterar para o caminho da sua máquina.
+			ATENÇÃO AQUI PROFESSOR: Aqui o senhor deve alterar para o caminho da sua máquina.
 	IV) Clique com o botão direito no arquivo Program.cs (do servidor) e selecione Definir como Projeto de Início.
 	V) Clique em Iniciar ou pressione F5 para rodar o servidor.
 
