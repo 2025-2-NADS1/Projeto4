@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\AULALA4 - DESKTOP\AULALA4_TCP\EXEMPLO_01\bin\Debug\EXEMPLO_01.exe.config
+C:\Users\user\Downloads\AULALA4 - DESKTOP\AULALA4_TCP\EXEMPLO_01\bin\Debug\EXEMPLO_01.exe
+C:\Users\user\Downloads\AULALA4 - DESKTOP\AULALA4_TCP\EXEMPLO_01\bin\Debug\EXEMPLO_01.pdb
+C:\Users\user\Downloads\AULALA4 - DESKTOP\AULALA4_TCP\EXEMPLO_01\obj\Debug\EXEMPLO_01.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\AULALA4 - DESKTOP\AULALA4_TCP\EXEMPLO_01\obj\Debug\EXEMPLO_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AULALA4 - DESKTOP\AULALA4_TCP\EXEMPLO_01\obj\Debug\EXEMPLO_01.exe
+C:\Users\user\Downloads\AULALA4 - DESKTOP\AULALA4_TCP\EXEMPLO_01\obj\Debug\EXEMPLO_01.pdb
