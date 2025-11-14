@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|c:\\users\\user\\downloads\\aulala4 - desktop\\picmyestery (winforms)\\picmyestery (winforms)\\tela_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|solutionrelative:picmyestery (winforms)\\tela_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|c:\\users\\user\\downloads\\aulala4 - desktop\\picmyestery (winforms)\\picmyestery (winforms)\\tela_resgatar_cupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|solutionrelative:picmyestery (winforms)\\tela_resgatar_cupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|c:\\users\\user\\downloads\\aulala4 - desktop\\picmyestery (winforms)\\picmyestery (winforms)\\tela_ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|solutionrelative:picmyestery (winforms)\\tela_ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|c:\\users\\user\\downloads\\aulala4 - desktop\\picmyestery (winforms)\\picmyestery (winforms)\\tela_perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD94B69C-7D5F-48E2-9D0A-934B0CA15965}|PicMyestery (WinForms)\\PicMyestery (WinForms).csproj|solutionrelative:picmyestery (winforms)\\tela_perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 247,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TELA_MENU.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_MENU.cs",
+              "RelativeDocumentMoniker": "PicMyestery (WinForms)\\TELA_MENU.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_MENU.cs [Projeto]",
+              "RelativeToolTip": "PicMyestery (WinForms)\\TELA_MENU.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:27:42.739Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TELA_PERFIL.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_PERFIL.cs",
+              "RelativeDocumentMoniker": "PicMyestery (WinForms)\\TELA_PERFIL.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_PERFIL.cs [Projeto]",
+              "RelativeToolTip": "PicMyestery (WinForms)\\TELA_PERFIL.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:13:30.122Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TELA_RESGATAR_CUPONS.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_RESGATAR_CUPONS.cs",
+              "RelativeDocumentMoniker": "PicMyestery (WinForms)\\TELA_RESGATAR_CUPONS.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_RESGATAR_CUPONS.cs [Projeto]",
+              "RelativeToolTip": "PicMyestery (WinForms)\\TELA_RESGATAR_CUPONS.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:08:24.223Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TELA_RANKING.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_RANKING.cs",
+              "RelativeDocumentMoniker": "PicMyestery (WinForms)\\TELA_RANKING.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\AULALA4 - DESKTOP\\PicMyestery (WinForms)\\PicMyestery (WinForms)\\TELA_RANKING.cs [Projeto]",
+              "RelativeToolTip": "PicMyestery (WinForms)\\TELA_RANKING.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:07:46.7Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

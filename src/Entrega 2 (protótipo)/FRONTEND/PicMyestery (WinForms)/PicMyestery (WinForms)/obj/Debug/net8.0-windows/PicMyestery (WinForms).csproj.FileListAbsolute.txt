@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).exe
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).deps.json
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).runtimeconfig.json
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).dll
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).pdb
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.Form1.resources
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).csproj.GenerateResource.cache
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).AssemblyInfo.cs
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).dll
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\refint\PicMyestery (WinForms).dll
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).pdb
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).genruntimeconfig.cache
+C:\Users\user\Desktop\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\ref\PicMyestery (WinForms).dll
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.Properties.Resources.resources
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_DIFICULDADE.resources
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_JOGO.resources
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_MENU.resources
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_PERFIL.resources
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_RESGATAR_CUPONS.resources
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).csproj.GenerateResource.cache
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).AssemblyInfoInputs.cache
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).AssemblyInfo.cs
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).exe
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).deps.json
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).runtimeconfig.json
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).dll
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).pdb
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).dll
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\refint\PicMyestery (WinForms).dll
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).pdb
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).genruntimeconfig.cache
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\ref\PicMyestery (WinForms).dll
+C:\Users\user\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_RANKING.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).exe
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).deps.json
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).runtimeconfig.json
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).dll
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\bin\Debug\net8.0-windows\PicMyestery (WinForms).pdb
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.Properties.Resources.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_DIFICULDADE.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_JOGO.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_MENU.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_PERFIL.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_RANKING.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery__WinForms_.TELA_RESGATAR_CUPONS.resources
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).csproj.GenerateResource.cache
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).AssemblyInfoInputs.cache
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).AssemblyInfo.cs
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).csproj.CoreCompileInputs.cache
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).dll
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\refint\PicMyestery (WinForms).dll
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).pdb
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\PicMyestery (WinForms).genruntimeconfig.cache
+C:\Users\22076554\Downloads\AULALA4 - DESKTOP\PicMyestery (WinForms)\PicMyestery (WinForms)\obj\Debug\net8.0-windows\ref\PicMyestery (WinForms).dll
